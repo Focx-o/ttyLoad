@@ -11,6 +11,13 @@ Snapshots - ttyLoad
 .. image:: ttyLoad1.png
 
 
+**Usage**
+--------------------
+ # make
+
+ # ./load
+
+Note: edit config.h before make.
 
 Copyright (c) 2015 Ankan Biswas
 ------------------------------------------------------------
@@ -41,10 +48,3 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 .. _xorg62: https://github.com/xorg62
 
-**Usage**
---------------------
-# make
-
-# ./load
-
-Note: edit config.h before make.
