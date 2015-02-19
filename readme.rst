@@ -8,7 +8,7 @@ Snapshots - ttyNs
 ---------------------------------------
 
 .. image:: ttyLoad.png
-.. image:: ttyLoad.png
+.. image:: ttyLoad1.png
 
 
 
