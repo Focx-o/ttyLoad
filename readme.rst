@@ -12,7 +12,7 @@ Snapshots - ttyLoad
 
 
 
-Copyright (c) 2013 Ankan Biswas
+Copyright (c) 2015 Ankan Biswas
 ------------------------------------------------------------
 I am thankful for the github reference from xorg62_
 
