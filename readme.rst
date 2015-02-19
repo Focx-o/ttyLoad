@@ -1,6 +1,6 @@
 **ttyLoad**
 ===============================
-ttyLoad is a 'Simple Terminal Based Loading Style' terminal based application.
+ttyLoad is a 'Simple Terminal Based Loading Style' for terminal based application.
 
 :Author: Ankan Biswas
 
