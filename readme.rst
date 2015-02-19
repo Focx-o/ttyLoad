@@ -4,7 +4,7 @@ ttyLoad is a 'Simple Terminal Based Loading Style' for terminal based applicatio
 
 :Author: Ankan Biswas
 
-Snapshots - ttyNs
+Snapshots - ttyLoad
 ---------------------------------------
 
 .. image:: ttyLoad.png
